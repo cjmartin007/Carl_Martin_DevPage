@@ -1,0 +1,54 @@
+nav {
+
+    background-color:black !important;
+    opacity: 90%;
+    
+}
+
+h1 , p {
+    color:white;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 280px;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    margin-left: 625px;
+
+}
+
+
+.brand-logo  {
+color:grey !important; 
+font-size: 30px;
+ margin-left: 10px !important; 
+ font-weight: bold;
+}
+
+.container1 {
+    color: white;
+    background-color: black;
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    
+    
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
